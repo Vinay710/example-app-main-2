@@ -2,9 +2,7 @@ Example App
 
 1. Install XAMPP/WAMP server on your machine
 
-2. Clone the 'example-app' repo in localhost folder.
-    git clone https://github.com/nandakishor/example-app.git.
-    Place the extracted folder inside the xampp htdocs folder.
+2. Place the extracted folder inside the xampp htdocs folder.
 
 3. Before to Start the server follow the next steps to setup database and GeoServer.
 
